@@ -1,4 +1,5 @@
 def main():
+  conda activate my_environment_name
   first_book = input("Enter the name of a book you own: ")
   second_book = input("Enter the name of another book you own (or press 'Enter' to skip): ")
 
